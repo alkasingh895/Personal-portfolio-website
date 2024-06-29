@@ -1,0 +1,43 @@
+.contectform{
+    padding: 0 20px;
+    padding-top: 144px;
+
+}
+
+
+.contectform h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 0;
+}
+
+.contectform  form div{
+    padding: 12px 0;
+}
+
+#emailHelp{
+    font-size: 8px;
+    color:blanchedalmond;
+    margin:0 5px;
+}
+
+.btn{
+    padding: 8px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0 3px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: blanchedalmond;
+    color: dodgerblue;
+}
+
+
+
+
+
+
